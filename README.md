@@ -1,2 +1,3 @@
 # wpsam
 Hello, i am currently making a theme for wordpress, if its finished i am making this theme for free.
+You can download it from here but, the theme is in beta, if you want you can edit this theme with your own code but you can not sell it for money, for more information please visite: <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons-Licentie" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />Dit werk valt onder een <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Naamsvermelding-NietCommercieel 4.0 Internationaal-licentie</a>.
